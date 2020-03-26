@@ -3,6 +3,7 @@ CKEditor 5 classic and inline editor build
 
 Based on the [Using different editors](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/advanced-setup.html#scenario-3-using-two-different-editors) guide from [CKEditor 5](https://ckeditor.com/docs/ckeditor5/latest/index.html)
 
+Includes [Mention Plugin](https://ckeditor.com/docs/ckeditor5/latest/features/mentions.html)
 ## Documentation
 
 See:
