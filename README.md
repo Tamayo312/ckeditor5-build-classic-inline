@@ -13,3 +13,10 @@ See:
 * [Configuration](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/configuration.html) for how to configure the editor.
 * [Creating custom builds](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/development/custom-builds.html) for how to customize the build (configure and rebuild the editor bundle).
 
+## Usage
+
+1. Run `npm install`
+2. Run `npm run build`
+3. Copy the contents of *build* in your project's public *js* folder
+4. To use editors in your project add ```<script src="[ckeditor-build-path]/ckeditor.js"></script>``` to your app's head.
+
